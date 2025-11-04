@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Nandynamic/Leetcode-s-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Nandynamic/Leetcode-s-/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Nandynamic/Leetcode-s-/tree/master/0066-plus-one) |
+| [1013-fibonacci-number](https://github.com/Nandynamic/Leetcode-s-/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nandynamic/Leetcode-s-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Nandynamic/Leetcode-s-/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/Nandynamic/Leetcode-s-/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -79,8 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nandynamic/Leetcode-s-/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nandynamic/Leetcode-s-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Nandynamic/Leetcode-s-/tree/master/1013-fibonacci-number) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nandynamic/Leetcode-s-/tree/master/0128-longest-consecutive-sequence) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Nandynamic/Leetcode-s-/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
