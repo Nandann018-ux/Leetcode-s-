@@ -97,5 +97,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/Nandynamic/Leetcode-s-/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Nandynamic/Leetcode-s-/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Nandynamic/Leetcode-s-/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/Nandynamic/Leetcode-s-/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Nandynamic/Leetcode-s-/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
