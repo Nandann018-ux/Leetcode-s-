@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nandynamic/Leetcode-s-/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nandynamic/Leetcode-s-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Nandynamic/Leetcode-s-/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Nandynamic/Leetcode-s-/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nandynamic/Leetcode-s-/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Nandynamic/Leetcode-s-/tree/master/0200-number-of-islands) |
 ## Memoization
 |  |
 | ------- |
@@ -102,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Nandynamic/Leetcode-s-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Nandynamic/Leetcode-s-/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Nandynamic/Leetcode-s-/tree/master/1908-recyclable-and-low-fat-products) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Nandynamic/Leetcode-s-/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Nandynamic/Leetcode-s-/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Nandynamic/Leetcode-s-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
