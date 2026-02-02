@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nandynamic/Leetcode-s-/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nandynamic/Leetcode-s-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Nandynamic/Leetcode-s-/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Nandynamic/Leetcode-s-/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Nandynamic/Leetcode-s-/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nandynamic/Leetcode-s-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Nandynamic/Leetcode-s-/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/Nandynamic/Leetcode-s-/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Nandynamic/Leetcode-s-/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -131,4 +133,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nandynamic/Leetcode-s-/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nandynamic/Leetcode-s-/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nandynamic/Leetcode-s-/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nandynamic/Leetcode-s-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
