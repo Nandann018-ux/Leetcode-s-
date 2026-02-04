@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Nandynamic/Leetcode-s-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nandynamic/Leetcode-s-/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Nandynamic/Leetcode-s-/tree/master/1013-fibonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Nandynamic/Leetcode-s-/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nandynamic/Leetcode-s-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Nandynamic/Leetcode-s-/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Nandynamic/Leetcode-s-/tree/master/0200-number-of-islands) |
+| [2965-find-missing-and-repeated-values](https://github.com/Nandynamic/Leetcode-s-/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Nandynamic/Leetcode-s-/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/Nandynamic/Leetcode-s-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Nandynamic/Leetcode-s-/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/Nandynamic/Leetcode-s-/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Nandynamic/Leetcode-s-/tree/master/0200-number-of-islands) |
+| [2965-find-missing-and-repeated-values](https://github.com/Nandynamic/Leetcode-s-/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
