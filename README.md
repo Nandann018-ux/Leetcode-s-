@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nandynamic/Leetcode-s-/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nandynamic/Leetcode-s-/tree/master/0094-binary-tree-inorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nandynamic/Leetcode-s-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Nandynamic/Leetcode-s-/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -169,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nandynamic/Leetcode-s-/tree/master/0011-container-with-most-water) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nandynamic/Leetcode-s-/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nandynamic/Leetcode-s-/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
