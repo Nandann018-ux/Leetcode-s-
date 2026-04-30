@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Nandynamic/Leetcode-s-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nandynamic/Leetcode-s-/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Nandynamic/Leetcode-s-/tree/master/1013-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Nandann018-ux/Leetcode-s-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nandynamic/Leetcode-s-/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nandynamic/Leetcode-s-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Nandynamic/Leetcode-s-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nandynamic/Leetcode-s-/tree/master/0067-add-binary) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Nandann018-ux/Leetcode-s-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Nandann018-ux/Leetcode-s-/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
