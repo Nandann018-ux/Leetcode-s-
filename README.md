@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nandynamic/Leetcode-s-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Nandynamic/Leetcode-s-/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Nandynamic/Leetcode-s-/tree/master/0200-number-of-islands) |
+| [0605-can-place-flowers](https://github.com/Nandann018-ux/Leetcode-s-/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Nandann018-ux/Leetcode-s-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nandynamic/Leetcode-s-/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nandynamic/Leetcode-s-/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Nandann018-ux/Leetcode-s-/tree/master/0605-can-place-flowers) |
 ## Tree
 |  |
 | ------- |
